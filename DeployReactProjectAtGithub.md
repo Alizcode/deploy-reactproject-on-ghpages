@@ -21,6 +21,7 @@ Add these lines inside scripts object
 
 After changes package.json file will look something like this.
 
+```js
 {
   "name": "ghtest",
   "homepage": "https://{GH-username}.github.io/{projectName}/", 
@@ -41,7 +42,7 @@ After changes package.json file will look something like this.
     "eject": "react-scripts eject"
   }
 }
-
+```
 # Last step 
 Deploy using this command
 
